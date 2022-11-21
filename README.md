@@ -29,6 +29,20 @@ Este análisis determina medias de velocidad, valores máximos, mínimos y otras
 
 # SET UP
 
+⚙️ Install Folium
+
+⚙️ Install Power BI
+
+
+⚙️ Import matplotlib.pyplot as plt
+
+
+⚙️ Import pandas as pd
+
+
+⚙️ Import numpy as np
+
+
 # STEP BY STEP
 
 🏎 Data extraction
