@@ -57,7 +57,7 @@ This is represented in KPI format
 🔥 Graphs:
 Additional and specific speed information can be found in the graphs.
 
-# 👀 Visualization in Variable Acceleration in X
+# 👀 Variable Acceleration in X Visualization
 
 🏁 Traveled circuit: 
 Made with the longitude and latitude data collected by the single-seater. The reddish traces show the formula's acceleration zones while the green ones show the deceleration zones.
