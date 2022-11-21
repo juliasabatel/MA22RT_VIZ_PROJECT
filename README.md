@@ -88,8 +88,7 @@ By means of the graphs the deceleration moments of the single-seater can be care
 
 
 
-<img width="785" alt="Captura de Pantalla 2022-11-21 a las 20 53 56" src="https://user-images.githubusercontent.com/29893993/203146626-45a626ca-fb03-4f97-a245-ebefcf4ad32c.png">
-
+<img width="662" alt="Captura de Pantalla 2022-11-21 a las 20 56 16" src="https://user-images.githubusercontent.com/29893993/203146989-76a08237-feed-4ba1-aa58-d55b49d84f56.png">
 
 
 
@@ -118,12 +117,6 @@ By means of the graphs the deceleration moments of the single-seater can be care
 ⭐️ Average time 1st lap: 48.3999 Km/h
 
 
-<img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 21" src="https://user-images.githubusercontent.com/29893993/203146547-44f7620a-11a9-4f2a-b6d9-e833738a8976.png">
-
-
-
-<img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 35" src="https://user-images.githubusercontent.com/29893993/203146724-57e05c37-adbf-44d7-9e05-f2f15f32df23.png">
-
 
 # DRIVER B:
 
@@ -146,6 +139,13 @@ By means of the graphs the deceleration moments of the single-seater can be care
 
 
 ⭐️ Average time 1st lap: 46.6999 Km/h
+
+
+<img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 21" src="https://user-images.githubusercontent.com/29893993/203147035-ebef9c2c-1a6f-416c-a9ce-087a22cec7fb.png">
+
+
+
+<img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 35" src="https://user-images.githubusercontent.com/29893993/203147054-839cba88-0a14-4eff-8e94-e8d95333795f.png">
 
 
 
