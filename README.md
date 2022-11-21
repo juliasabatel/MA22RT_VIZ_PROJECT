@@ -27,4 +27,52 @@ A partir de los datos obtenidos de esta prueba se procede a analizar el comporta
 Este análisis determina medias de velocidad, valores máximos, mínimos y otras variables esclareciendo datos significativos de ambos pilotos. 
 
 
+# SET UP
+
+# STEP BY STEP
+
+🏎 Data extraction
+
+The data were extracted from the MA22RT single-seater during the Formula Student Spain endurance in the 2021/2022 season. Subsequently they were visualized in the program #RaceStudio3 by which the data were converted to CSV format and split into file by laps (in different CSV).
+
+🧹 Cleaning and scanning 
+
+Data cleaning was carried out in #Python ensuring the absence of null values, duplicates and checking that the column names.
+
+With the exploration of the data the objective was to determine significant differences between pilot A and pilot B.
+
+ # 👀 Velocity Variable Visualization
+
+The visualization has been carried out in #Powerbi by which is drawn:
+
+🏁 The circuit run:
+ Its layout has been carried out by capturing the longitude and latitude data collected.
+
+💨 Single-seater speed:
+The speed is shown both in the circuit, with the sections where the speed has been higher in reddish tones, while where the speed values are lower, greenish values are shown.
+
+⚡️ Maximum, minimum, average speed
+This is represented in KPI format
+
+🔥 Graphs:
+Additional and specific speed information can be found in the graphs.
+
+# 👀 Visualization in Variable Acceleration in X
+
+🏁 Traveled circuit: 
+Made with the longitude and latitude data collected by the single-seater. The reddish traces show the formula's acceleration zones while the green ones show the deceleration zones.
+
+🌪 Single-seater acceleration:
+The acceleration of the single-seater on the x-axis where the deceleration moments can be clearly observed.
+
+💨 Maximum and minimum acceleration
+Represented in KPI format.
+
+🔥 Graphs:
+By means of the graphs the deceleration moments of the single-seater can be carefully observed.
+
+
+# CONCLUSIONS
+
+
 
