@@ -140,3 +140,8 @@ By means of the graphs the deceleration moments of the single-seater can be care
 
 ⭐️ Total time 1st lap: 46.6999 Km/h
 
+<img width="654" alt="Captura de Pantalla 2022-11-22 a las 19 13 17" src="https://user-images.githubusercontent.com/29893993/203390487-7b89f718-835f-4f04-b5cf-6194ed62e401.png">
+
+
+
+<img width="654" alt="Captura de Pantalla 2022-11-22 a las 19 13 39" src="https://user-images.githubusercontent.com/29893993/203390530-36aab30e-b43a-4bd2-9f6e-ca286b35d7a4.png">
