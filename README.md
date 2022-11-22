@@ -96,13 +96,13 @@ By means of the graphs the deceleration moments of the single-seater can be care
 
 # DRIVER A
 
-✨ Average Acceleration: 0.00582 km/h
+✨ Average Acceleration: 0.00582 
 
 
-✨ Minimum acceleration: 0.68876 km/h
+✨ Minimum acceleration: 0.68876 
 
 
-✨ Maximum acceleration: -0.91584 km/h
+✨ Maximum acceleration: -0.91584 
 
 
 ⭐️ Average speed: 51.4138 km/h
@@ -114,19 +114,19 @@ By means of the graphs the deceleration moments of the single-seater can be care
 ⭐️ Maximum speed: 80.050499 km/h
 
 
-⭐️ Average time 1st lap: 48.3999 Km/h
+⭐️ Total time 1st lap: 48.3999 Km/h
 
 
 
 # DRIVER B:
 
-✨ Average acceleration: 0.011080 km/h
+✨ Average acceleration: 0.011080 
 
 
-✨ Minimum acceleration: -0.980421 km/h
+✨ Minimum acceleration: -0.980421 
 
 
-✨ Maximum acceleration: 0.714044 km/h
+✨ Maximum acceleration: 0.714044 
 
 
 ⭐️ Average speed: 53.38404033 km/h
@@ -138,7 +138,7 @@ By means of the graphs the deceleration moments of the single-seater can be care
 ⭐️ Maximum speed: 86.168 km/h
 
 
-⭐️ Average time 1st lap: 46.6999 Km/h
+⭐️ Total time 1st lap: 46.6999 Km/h
 
 
 <img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 21" src="https://user-images.githubusercontent.com/29893993/203147035-ebef9c2c-1a6f-416c-a9ce-087a22cec7fb.png">
