@@ -29,6 +29,20 @@ Este análisis determina medias de velocidad, valores máximos, mínimos y otras
 
 # SET UP
 
+⚙️ Install Folium
+
+⚙️ Install Power BI
+
+
+⚙️ Import matplotlib.pyplot as plt
+
+
+⚙️ Import pandas as pd
+
+
+⚙️ Import numpy as np
+
+
 # STEP BY STEP
 
 🏎 Data extraction
@@ -72,7 +86,66 @@ Represented in KPI format.
 By means of the graphs the deceleration moments of the single-seater can be carefully observed.
 
 
+
+
+<img width="662" alt="Captura de Pantalla 2022-11-21 a las 20 56 16" src="https://user-images.githubusercontent.com/29893993/203146989-76a08237-feed-4ba1-aa58-d55b49d84f56.png">
+
+
+
 # CONCLUSIONS
+
+# DRIVER A
+
+✨ Average Acceleration: 0.00582 km/h
+
+
+✨ Minimum acceleration: 0.68876 km/h
+
+
+✨ Maximum acceleration: -0.91584 km/h
+
+
+⭐️ Average speed: 51.4138 km/h
+
+
+⭐️ Minimum speed: 29.881001 km/h
+
+
+⭐️ Maximum speed: 80.050499 km/h
+
+
+⭐️ Average time 1st lap: 48.3999 Km/h
+
+
+
+# DRIVER B:
+
+✨ Average acceleration: 0.011080 km/h
+
+
+✨ Minimum acceleration: -0.980421 km/h
+
+
+✨ Maximum acceleration: 0.714044 km/h
+
+
+⭐️ Average speed: 53.38404033 km/h
+
+
+⭐️ Minimum speed: 29.028 km/h
+
+
+⭐️ Maximum speed: 86.168 km/h
+
+
+⭐️ Average time 1st lap: 46.6999 Km/h
+
+
+<img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 21" src="https://user-images.githubusercontent.com/29893993/203147035-ebef9c2c-1a6f-416c-a9ce-087a22cec7fb.png">
+
+
+
+<img width="1181" alt="Captura de Pantalla 2022-11-21 a las 20 53 35" src="https://user-images.githubusercontent.com/29893993/203147054-839cba88-0a14-4eff-8e94-e8d95333795f.png">
 
 
 
