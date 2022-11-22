@@ -47,7 +47,7 @@ Este análisis determina medias de velocidad, valores máximos, mínimos y otras
 
 🏎 Data extraction
 
-The data were extracted from the MA22RT single-seater during the Formula Student Spain endurance in the 2021/2022 season. Subsequently they were visualized in the program #RaceStudio3 by which the data were converted to CSV format and split into file by laps (in different CSV).
+The data were extracted from the MA22RT single-seater during the Formula Student Spain endurance in the 2021/2022 season. Subsequently they were visualized in the software #RaceStudio3 by which the data were converted to CSV format and split into file by laps (in different CSV).
 
 🧹 Cleaning and scanning 
 
